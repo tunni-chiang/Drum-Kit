@@ -1,4 +1,3 @@
-
 //Detecting button press
 document.querySelectorAll(".drum").forEach(function(selector) {
   selector.addEventListener("click", function() {
